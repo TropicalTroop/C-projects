@@ -29,7 +29,7 @@ void Workout::addDate(){
    int day, month, year, second;
    std::cout << "Enter day: ";
    std::cin >> day;
-   std::cout << "Enter month: "'
+   std::cout << "Enter month: ";
    std::cin >> month;
    std::cout << "Enter year: ";
    std::cin >> year;
